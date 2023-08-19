@@ -1,0 +1,9 @@
+.DS_Store
+*_data
+cassandra_db
+data
+*_data
+.env
+kong-pongo
+servroot
+plugin/limit-key-quota/.luarc.json
